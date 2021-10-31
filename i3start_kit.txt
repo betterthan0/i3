@@ -1,0 +1,12 @@
+alacritty
+compton
+feh
+ybacklight
+rofi
+shutter
+joplin-desktop
+mu editor
+flameshot
+scrot
+playerctl
+
